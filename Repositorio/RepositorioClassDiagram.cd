@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Repositorio.Model.CentroFormacionEntities" Collapsed="true">
+    <Position X="1.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAEAABABAAAAAABBAAAAA=</HashCode>
+      <FileName>Model\ModelCentroFormacion25.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Model.Alumno" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Alumno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Model.Aulaa" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Aulaa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Model.Curso" Collapsed="true">
+    <Position X="3.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAACAAAAAAAAAAAABABAAgQgABAAAAAA=</HashCode>
+      <FileName>Model\Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Model.Profesor" Collapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAQBAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Model\Profesor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Model.ProfesorCurso" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAAAAAAAAAAAAAAQAAAAAAAgAABAAAAA=</HashCode>
+      <FileName>Model\ProfesorCurso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositorio.Repositorio.RepositorioEntity&lt;TModelo, TViewModel&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAISAAAAAAAAAABAAAAAAAAAAAAIAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Repositorio\RepositorioEntity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositorio.ViewModel.AlumnoViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAABASIAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\AlumnoViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Repositorio.ViewModel.CursoViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEAAAKIAQACAAAAAAAAAAAAAAAAAgQgAAAAAAAA=</HashCode>
+      <FileName>ViewModel\CursoViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Repositorio.Repositorio.IRepositorio&lt;TModelo, TViewModel&gt;" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Repositorio\IRepositorio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Repositorio.ViewModel.IViewModel&lt;TModelo&gt;" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACIAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModel\IViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
